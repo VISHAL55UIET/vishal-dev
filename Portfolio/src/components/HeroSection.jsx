@@ -65,7 +65,7 @@ export const HeroSection = () => {
   </span>
 
   <span className="text-green-400">
-    🚀 60+ Repositories
+    🚀 100+ Repositories
   </span>
 
 </div>
