@@ -17,7 +17,6 @@ export const codingProfiles = [
     stats: [
       "⭐ 4★ Rated",
       "📈 Max Rating: 1632",
-      "🏅 Global Rank: 14787",
        "📚 Problems Solved: 1000+",
         "🥇 Best Contest Rank: 42,STARTER-222",
     ],

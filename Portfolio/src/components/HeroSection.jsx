@@ -1,4 +1,5 @@
 import { Typewriter } from "react-simple-typewriter";
+import profile from "../assets/profile.png";
 import resume from "../assets/resume/Vishal_Singh_Resume.pdf";
 export const HeroSection = () => {
   return (
@@ -24,6 +25,7 @@ export const HeroSection = () => {
           <h1 className="text-5xl sm:text-6xl md:text-8xl font-extrabold tracking-tight leading-tight">
             <span className="text-white">Hi, I'm</span>
             <br />
+            
 
             <span className="text-primary">Vishal</span>
 
@@ -53,19 +55,19 @@ export const HeroSection = () => {
 <div className="flex flex-wrap justify-center gap-4 mt-6 mb-6 text-sm">
 
   <span className="text-yellow-400">
-    🏆 2200+ DSA Problems
+      2200+ DSA Problems
   </span>
 
   <span className="text-orange-400">
-    ⭐ 4★ CodeChef
+     4★ CodeChef
   </span>
 
   <span className="text-blue-400">
-    💙 Specialist
+     Specialist
   </span>
 
   <span className="text-green-400">
-    🚀 60+ Repositories
+     100+ Repositories
   </span>
 
 </div>
@@ -88,18 +90,18 @@ export const HeroSection = () => {
           </h2>
 
           {/* Description */}
-          <p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-3xl mx-auto leading-relaxed">
-            I build{" "}
-            <span className="text-white font-medium">
-              scalable backend systems
-            </span>
-            , efficient APIs, and full stack applications focused on
-            performance, reliability, and clean architecture using{" "}
-            <span className="text-primary font-medium">
-              Java, Golang, MERN Stack, REST APIs, Microservices,
-              PostgreSQL, and Cloud technologies.
-            </span>
-          </p>
+        <p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-3xl mx-auto leading-relaxed">
+  I build{" "}
+  <span className="text-white font-medium">
+    scalable backend systems
+  </span>
+  , efficient APIs, and full stack applications focused on performance,
+  reliability, and clean architecture using{" "}
+  <span className="text-primary font-medium">
+    Java, Golang, AI, MERN Stack, REST APIs, Microservices, PostgreSQL, and
+    Cloud technologies.
+  </span>
+</p>
 
           {/* CTA Buttons */}
          <div className="flex flex-col sm:flex-row gap-5 justify-center pt-4">
