@@ -1,128 +1,129 @@
-# 🚀 Vishal Singh — Developer Portfolio
+# Vishal Singh | Java Backend Engineer (AI-Powered Systems)
 
-> **AI Backend Engineer • Software Engineer • Problem Solver**
+> I build production-style backend systems in **Java and Spring Boot**, and I'm increasingly pulling AI into them: RAG pipelines, vector search, and ML models that actually ship behind an API.
 
-A modern, responsive developer portfolio built to showcase my software engineering journey, technical skills, projects, experience, competitive programming achievements, and interest in building scalable backend systems.
+[![Portfolio](https://img.shields.io/badge/Live-Portfolio-black?style=for-the-badge)](https://vishal-new-port-folio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-VISHAL55UIET-181717?style=for-the-badge&logo=github)](https://github.com/VISHAL55UIET)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-singh-5b052828a/)
 
-🔗 **Live Portfolio:** [vishal-new-port-folio.vercel.app](https://vishal-new-port-folio.vercel.app/)
-💻 **GitHub:** [github.com/VISHAL55UIET](https://github.com/VISHAL55UIET)
-🔗 **LinkedIn:** [linkedin.com/in/vishal-singh-5b052828a](https://www.linkedin.com/in/vishal-singh-5b052828a/)
-
----
-
-## 📸 Portfolio Preview
-
-### 🏠 Hero Section
-
-![Hero Section](docs/screenshots/hero.png)
-
-The landing section introduces my profile, current career focus, competitive programming achievements, and availability for SDE-1 opportunities.
-
-### 👨‍💻 About Me
-
-![About Section](docs/screenshots/about.png)
-
-A concise overview of my background, engineering interests, technical strengths, and development journey.
-
-### 🛠️ Skills & Technologies
-
-![Skills Section](docs/screenshots/skills.png)
-
-The portfolio highlights the technologies and tools I work with across backend development, AI, databases, APIs, cloud, and software engineering.
-
-### 💼 Experience
-
-![Experience Section](docs/screenshots/experience.png)
-
-My professional experience and hands-on software development journey.
-
-### 🚀 Featured Projects
-
-![Projects Section](docs/screenshots/projects.png)
-
-A collection of projects demonstrating practical experience with backend systems, full-stack applications, APIs, databases, AI integrations, and scalable architecture.
-
-### 📊 Competitive Programming
-
-![DSA Section](docs/screenshots/dsa.png)
-
-Competitive programming and problem-solving achievements, including:
-
-* 🏆 **2200+ DSA Problems**
-* ⭐ **4★ CodeChef**
-* 💙 **Codeforces Specialist**
-* 🚀 **60+ Repositories**
-
-### 📬 Contact
-
-![Contact Section](docs/screenshots/contact.png)
-
-A simple contact section for recruiters, developers, and collaborators to connect with me.
+**Live site:** https://vishal-new-port-folio.vercel.app/
+**Status:** Open to SDE-1 / new grad backend roles (B.Tech CSE, 2027 batch)
 
 ---
 
-# ✨ Key Features
+## About Me
 
-* 🎨 Modern dark-themed UI
-* 📱 Fully responsive design
-* ⚡ Fast and lightweight frontend
-* ✨ Smooth animations and transitions
-* ⌨️ Animated typewriter introduction
-* 📄 Resume integration
-* 🚀 Project showcase
-* 🧑‍💻 Skills and technology section
-* 💼 Experience section
-* 🏆 DSA & competitive programming achievements
-* 📬 Contact section
-* 🔗 Social media and professional profile integration
-* ☁️ Vercel deployment ready
+I'm a final-year Computer Science student at CSJMU Kanpur who likes the unglamorous, important side of software: clean APIs, secure auth, reliable data flow, and systems that don't fall over when real users show up.
+
+My core is **Java + Spring Boot**. On top of that I've worked with the MERN stack, shipped code during a remote SDE internship, and built AI features such as retrieval-augmented generation (RAG) with vector search. I also compete in ML and DSA contests, which keeps both my fundamentals and my modelling instincts sharp.
 
 ---
 
-# 🧰 Tech Stack
+## What I Bring
 
-### Frontend
+**Backend engineering**
+- REST API design with Spring Boot, Spring Security (JWT), and Hibernate/JPA
+- Event-driven patterns: Kafka, outbox, and saga-style workflows
+- Payments integration (Stripe, Razorpay)
+- Caching and data layers with Redis, MySQL, MongoDB, and PostgreSQL (pgvector)
+- Containerization with Docker and deployment on AWS EC2
 
-* React.js
-* Vite
-* JavaScript
-* HTML5
-* CSS
-* Tailwind CSS
+**AI and ML**
+- RAG pipelines with Spring AI and pgvector
+- **Amazon ML Challenge 2026: Top 200 nationally**
+- Comfortable taking a model from notebook idea to a backend service other apps can call
 
-### UI & Animation
-
-* React Simple Typewriter
-* Responsive layouts
-* CSS animations
-* Gradient effects
-* Glassmorphism-style components
-
-### Development Tools
-
-* Git
-* GitHub
-* VS Code
-* npm
-
-### Deployment
-
-* Vercel
+**Problem solving**
+- 2200+ DSA problems solved
+- LeetCode rating 1840+ (global rank 1027 in a biweekly contest)
+- Codeforces Specialist, CodeChef 4★
 
 ---
 
-# 🏗️ Project Structure
+## Experience
+
+**SDE Intern, Bluestock Fintech (Remote)** | Jun 2025 - Aug 2025
+- Built backend APIs with Node.js, Express, and MongoDB for a fintech product
+- Implemented JWT-based authentication and protected routes
+- Deployed services on AWS EC2 and frontends on Vercel
+
+---
+
+## Featured Projects
+
+### Multi-Vendor E-Commerce Platform
+**Spring Boot, React, Spring AI, RAG, pgvector**
+A multi-vendor marketplace with an AI layer. Product knowledge is embedded into pgvector and retrieved through a RAG flow, so users get context-aware answers instead of keyword matches.
+
+### AI Revenue Recovery Backend
+**Spring Boot, Outbox pattern, Saga, Razorpay**
+A hackathon backend focused on reliability: payment recovery workflows built with the outbox and saga patterns so state stays consistent even when steps fail midway.
+
+### Airbnb Clone (Backend)
+**Spring Boot, Spring Security, JWT, Stripe**
+A booking platform backend with secure authentication and Stripe-powered payments.
+
+### Grocery Hunt
+**MERN, Stripe**
+A full-stack grocery shopping app with cart, checkout, and online payments.
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| Languages | Java, JavaScript, SQL |
+| Backend | Spring Boot, Spring Security, Hibernate/JPA, Node.js, Express |
+| AI / ML | Spring AI, RAG, pgvector, ML contest experience |
+| Messaging | Kafka |
+| Databases | MySQL, MongoDB, PostgreSQL, Redis |
+| Frontend | React.js, Vite, Tailwind CSS |
+| DevOps | Docker, AWS EC2, Vercel, Git, GitHub |
+
+---
+
+## Achievements at a Glance
+
+| Metric | Value |
+|---|---|
+| DSA problems solved | 2200+ |
+| LeetCode rating | 1840+ |
+| Codeforces | Specialist |
+| CodeChef | 4★ |
+| Amazon ML Challenge 2026 | Top 200 |
+| GitHub repositories | 60+ |
+
+---
+
+## Portfolio Preview
+
+| Hero | About |
+|---|---|
+| ![Hero](docs/screenshots/hero.png) | ![About](docs/screenshots/about.png) |
+
+| Skills | Experience |
+|---|---|
+| ![Skills](docs/screenshots/skills.png) | ![Experience](docs/screenshots/experience.png) |
+
+| Projects | DSA |
+|---|---|
+| ![Projects](docs/screenshots/projects.png) | ![DSA](docs/screenshots/dsa.png) |
+
+![Contact](docs/screenshots/contact.png)
+
+---
+
+## About This Repository
+
+This repo is the source of my personal portfolio site: a dark-themed, fully responsive single-page app built with **React, Vite, and Tailwind CSS**, deployed on **Vercel**. It is component-driven, with each section (Hero, About, Skills, Experience, Projects, DSA, Contact) living in its own React component.
 
 ```text
 Vishal-New-PortFolio/
-│
 └── Portfolio/
-    │
     ├── public/
-    │
     ├── src/
     │   ├── assets/
-    │   │
     │   ├── components/
     │   │   ├── HeroSection.jsx
     │   │   ├── About.jsx
@@ -130,179 +131,43 @@ Vishal-New-PortFolio/
     │   │   ├── Experience.jsx
     │   │   ├── Projects.jsx
     │   │   └── ...
-    │   │
     │   ├── App.jsx
-    │   ├── main.jsx
-    │   └── ...
-    │
+    │   └── main.jsx
     ├── package.json
-    ├── package-lock.json
     ├── vite.config.js
-    ├── eslint.config.js
     └── vercel.json
 ```
 
----
-
-# ⚙️ Run Locally
-
-### 1. Clone the repository
+### Run Locally
 
 ```bash
 git clone https://github.com/VISHAL55UIET/Vishal-New-PortFolio.git
-```
-
-### 2. Navigate to the project
-
-```bash
 cd Vishal-New-PortFolio/Portfolio
-```
-
-### 3. Install dependencies
-
-```bash
 npm install
-```
-
-### 4. Start the development server
-
-```bash
 npm run dev
 ```
 
-The application will be available on the local development server shown by Vite.
+Vite will print the local URL in the terminal.
 
 ---
 
-# 🎯 Design Philosophy
+## Roadmap
 
-This portfolio is designed around three principles:
-
-### 1. Engineering First
-
-The portfolio focuses on real engineering work, problem solving, projects, and technical experience rather than only visual presentation.
-
-### 2. Clean & Minimal
-
-The interface uses a dark visual system with gradients, spacing, typography, and subtle animations to keep the experience modern without overwhelming the content.
-
-### 3. Recruiter Friendly
-
-Important information such as:
-
-* Technical skills
-* DSA achievements
-* Experience
-* Projects
-* Resume
-* Contact information
-
-is intentionally easy to discover.
+- [ ] GitHub API integration for live repo stats
+- [ ] Project filtering by technology
+- [ ] Blog section for backend and AI write-ups
+- [ ] SEO and Open Graph metadata
+- [ ] Accessibility improvements
+- [ ] CI/CD pipeline for automated deploys
 
 ---
 
-# 📈 Engineering Highlights
+## Let's Connect
 
-```text
-2200+     DSA Problems Solved
-4★        CodeChef
-Specialist Codeforces
-60+       GitHub Repositories
-SDE-1     Target Role
-```
+I'm looking for backend-focused roles where I can work on Java and Spring Boot systems, microservices, and AI-powered features.
 
----
+- GitHub: https://github.com/VISHAL55UIET
+- LinkedIn: https://www.linkedin.com/in/vishal-singh-5b052828a/
+- Portfolio: https://vishal-new-port-folio.vercel.app/
 
-# 🧩 Development Approach
-
-The portfolio is component-driven and organized using reusable React components.
-
-Each major section is separated into its own component to make the application easier to maintain and extend.
-
-The Hero section, for example, contains:
-
-* Developer introduction
-* Availability status
-* Competitive programming statistics
-* Animated role titles
-* Short professional summary
-* Resume CTA
-* Project CTA
-* Contact CTA
-
----
-
-# 🔮 Future Improvements
-
-* [ ] Add GitHub API integration for dynamic repository statistics
-* [ ] Add dynamic contribution graph
-* [ ] Add project filtering by technology
-* [ ] Add blog / technical writing section
-* [ ] Add downloadable resume analytics
-* [ ] Improve accessibility
-* [ ] Add performance monitoring
-* [ ] Add automated deployment pipeline
-* [ ] Add SEO improvements
-* [ ] Add Open Graph metadata
-
----
-
-# 🤝 Connect With Me
-
-I'm interested in opportunities involving:
-
-* Backend Engineering
-* Java / Spring Boot
-* AI-powered backend systems
-* REST APIs
-* Microservices
-* System Design
-* Full-Stack Development
-* Software Engineering
-
-### Profiles
-
-💻 **GitHub**
-https://github.com/VISHAL55UIET
-
-🔗 **LinkedIn**
-https://www.linkedin.com/in/vishal-singh-5b052828a/
-
-🌐 **Portfolio**
-https://vishal-new-port-folio.vercel.app/
-
----
-
-# ⭐ Support
-
-If you find this portfolio useful or interesting, consider giving the repository a ⭐.
-
-It helps and motivates me to keep improving and building.
-
----
-
-## 📌 Note
-
-This portfolio is continuously evolving as I learn new technologies, build new projects, solve more problems, and gain more real-world engineering experience.
-
-**Built with React, curiosity, and a lot of debugging. ⚡**
-
----
-
-### 📸 Screenshot Folder
-
-Place portfolio screenshots inside:
-
-```text
-docs/
-└── screenshots/
-    ├── hero.png
-    ├── about.png
-    ├── skills.png
-    ├── experience.png
-    ├── projects.png
-    ├── dsa.png
-    └── contact.png
-```
-
-Then GitHub will automatically render them inside this README.
+If this portfolio helped or inspired you, a ⭐ on the repo is always appreciated.
